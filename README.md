@@ -1,3 +1,3 @@
 # Simple REST API App
 
-A Simple Application built using Golang to implement REST API.
+Simple Golang web application implementing REST APIs with full CRUD Operation. Uses Mux.
